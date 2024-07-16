@@ -1,0 +1,12 @@
+public class   {
+    public static void main(String[] args) {
+        double d = 56.778;
+        int i = 20;
+        float f = 10.5f;
+        int x;
+
+        x = (int) (d + i + f);
+
+        System.out.println("The value of X is: " + x);
+    }
+}
